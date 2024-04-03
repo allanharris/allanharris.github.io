@@ -73,3 +73,11 @@
 - name: Kaww.io
   url: https://kaww.io/
   twitter: '@kaww_io'
+  
+- name: KryptexPool
+  url: https://pool.kryptex.com/rvn
+  twitter: '@KryptexMining'
+
+- name: OKMINER 
+  url: https://okminer.com
+  twitter: '@OkminerPool'

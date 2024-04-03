@@ -104,7 +104,7 @@
   asset-support: true
   platforms:
     - world-wide-web
-    
+
 - name: NOW
   logo: /assets/img/pages/wallet/NOW_wallet_logo.png
   url: https://walletnow.app/
@@ -120,6 +120,15 @@
   platforms:
     - app-store-badge
     - google-play-badge
+
+- name: Qortal
+  logo: /assets/img/pages/wallet/qortal.png
+  url: https://qortal.org/downloads/
+  asset-support: false
+  platforms:
+    - windows
+    - mac
+    - linux
 
 - name: SevenB
   logo: /assets/img/pages/wallet/7b.png
@@ -138,6 +147,14 @@
     - windows
     - linux
     - world-wide-web
+
+- name: Stibits
+  logo: /assets/img/pages/wallet/stibits.png
+  url: https://www.stibits.com/
+  asset-support: true
+  platforms:
+    - app-store-badge
+    - google-play-badge
 
 - name: Trust
   logo: /assets/img/pages/wallet/trust.png
